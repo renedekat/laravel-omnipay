@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "ReneDeKat\\LaravelOmnipay": "src/"
+            "Ignited\\LaravelOmnipay": "src/"
         }
     },
     "extra": {
