@@ -1,4 +1,4 @@
-<?php namespace Ignited\LaravelOmnipay;
+<?php namespace ReneDeKat\LaravelOmnipay;
 
 use Illuminate\Support\ServiceProvider;
 use Omnipay\Common\GatewayFactory;
