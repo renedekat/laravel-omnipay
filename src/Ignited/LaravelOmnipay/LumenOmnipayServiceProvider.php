@@ -1,4 +1,4 @@
-<?php namespace Ignited\LaravelOmnipay;
+<?php namespace ReneDeKat\LaravelOmnipay;
 
 class LumenOmnipayServiceProvider extends BaseServiceProvider {
 
