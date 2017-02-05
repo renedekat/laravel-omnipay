@@ -1,4 +1,4 @@
-<?php namespace Ignited\LaravelOmnipay\Facades;
+<?php namespace ReneDeKat\LaravelOmnipay\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
